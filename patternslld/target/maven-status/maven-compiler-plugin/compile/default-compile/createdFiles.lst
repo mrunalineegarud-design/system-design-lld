@@ -1,0 +1,6 @@
+org\yourcompany\yourproject\Adaptor\AdaptorDesign\AdaptorInterface.class
+org\yourcompany\yourproject\Patternslld.class
+org\yourcompany\yourproject\Adaptor\LegacyMachine\LegacyMachineClass.class
+org\yourcompany\yourproject\Adaptor\AdaptorDesign\AdaptorClass.class
+org\yourcompany\yourproject\Adaptor\MainClass.class
+org\yourcompany\yourproject\Adaptor\LegacyMachine\LegacyMachineInterface.class
